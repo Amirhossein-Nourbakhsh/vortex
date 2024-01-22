@@ -145,11 +145,11 @@ h4 {
 .buy-button {
     position: absolute;
     bottom: 10px;
-    right: 10px;
+    left: 10px;
 }
 
 .btn-buy {
-    background-color: #3498db;
+    background-color: #3b3b3b;
     color: #fff;
     padding: 8px 15px;
     text-decoration: none;
