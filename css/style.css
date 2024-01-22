@@ -145,13 +145,14 @@ h4 {
 .buy-button {
     position: absolute;
     bottom: 10px;
-    left: 10px;
+    
+
 }
 
 .btn-buy {
     background-color: #3b3b3b;
     color: #fff;
-    padding: 8px 15px;
+    
     text-decoration: none;
     border-radius: 3px;
     font-size: 14px;
@@ -159,7 +160,8 @@ h4 {
 }
 
 .btn-buy:hover {
-    background-color: #2980b9;
+    background-color: #00c954;
+	
 }
 
 
